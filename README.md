@@ -42,6 +42,8 @@ RESULT:
 
 All categories were naturally discovered, and no human intervention was needed at any step other than prompt engineering.
 
+Finally I ran many scenarios to rescale the final scoring system to a "makes sense" set of threshold as decided by chatgpt. Chatgpt agrees that these new thresholds are sensical - and I verified it with my own intuition as well.
+
 CONCLUSION:
 The final checklist might seem obvious, or simplistic, and an experienced Ranger or Guide might balk at some elements like "Team separated or isolated in hazardous conditions (5 points)" not being an IMMEDIATE turn around condition, but there is deep reasoning for this being there, and I would implore a skeptic to spend some time with it - or tweak it!
 
